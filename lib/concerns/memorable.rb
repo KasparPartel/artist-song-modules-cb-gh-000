@@ -8,10 +8,11 @@ module Memorable
     def self.count
       @@artists.count
     end
-    
+
   end
 
   module InstanceMethods
 
   end
+  
 end
