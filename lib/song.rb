@@ -25,6 +25,6 @@ class Song
   end
 
   def all
-    @@songs
+    @@all
   end
 end
