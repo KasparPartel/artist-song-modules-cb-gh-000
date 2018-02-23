@@ -24,4 +24,7 @@ class Song
     name.downcase.gsub(' ', '-')
   end
 
+  def all
+    @@songs
+  end
 end
